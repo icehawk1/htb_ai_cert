@@ -1,0 +1,6 @@
+# Obsidian workspace state (personal / machine-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# macOS
+.DS_Store
