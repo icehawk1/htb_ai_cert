@@ -5,7 +5,8 @@ Module 1:
 - Neuron
 - Transformer
 
-
+Module 2:
+- Spam classification: HTB{sp4m_cla55if13r_3v4lu4t0r}
 
 AI Evasion - Foundations
 - HTB{g00dw0rd5_15_1n73r3571ng}
