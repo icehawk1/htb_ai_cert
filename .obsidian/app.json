@@ -1,0 +1,7 @@
+{
+  "promptDelete": false,
+  "trashOption": "system",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "Attachments"
+}
