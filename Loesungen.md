@@ -5,8 +5,11 @@ Module 1:
 - Neuron
 - Transformer
 
-Module 2:
+Applications of AI in InfoSec
 - Spam classification: HTB{sp4m_cla55if13r_3v4lu4t0r}
+- HTB{n3tw0rk_tr4ff1c_4n0m4ly_d3t3ct0r}
+- HTB{9569648083a8106ba057bbbe2d00d8ec}
+- 
 
 AI Evasion - Foundations
 - HTB{g00dw0rd5_15_1n73r3571ng}
