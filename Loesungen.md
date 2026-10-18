@@ -23,3 +23,5 @@ AI Evasion - Sparsity Attacks
 
 AI Defense 
 - HTB{57d798e266b1bbeb336d3067eb7a8645}
+- c6c0394c74
+- 4d56029029
