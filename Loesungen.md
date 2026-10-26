@@ -11,6 +11,7 @@ Applications of AI in InfoSec
 - HTB{9569648083a8106ba057bbbe2d00d8ec}
 - HTB{s3nt1m3nt_4n4lys1s_d4t4}
 - Network Anomaly Detection: HTB{n3tw0rk_tr4ff1c_4n0m4ly_d3t3ct0r}
+- Final challenge: HTB{9569648083a8106ba057bbbe2d00d8ec}
 
 AI Evasion - Foundations
 - HTB{g00dw0rd5_15_1n73r3571ng}
