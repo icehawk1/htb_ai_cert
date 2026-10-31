@@ -41,4 +41,12 @@ Direct Prompt Injection
 - HTB{c67652383c2a21b53caf425980b9a427}
 - HTB{2df33eee9fd0060d0169fb478e6c8770}
 - WATERFOUNTAIN
-- HTB{db4a18dcadf4bd380b93c3e3ede0da90} 
+- HTB{db4a18dcadf4bd380b93c3e3ede0da90}
+Indirect prompt injection
+. HTB{5b0ddb197e17e2721b8a12034d6168de}
+- HTB{340cd5311077b92b1a0481bee4d423c9}
+- HTB{b81de5a57cfa9b792dc97cd1882d1da2}
+- HTB{26c5bb4c6ee200f83182cfa77d1783f4}
+- HTB{c4c59ec220ae06d9c8ebbe1ac4c2ae11}
+
+- 
