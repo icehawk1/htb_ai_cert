@@ -35,3 +35,10 @@ Introduction to Red Teaming AI
 - HTB{0d439b3f57d1d234106a80776cd03b25}
 - HTB{b932f8d4b64d9a824a0247366c658012}
 - HTB{af1f07de474b54b3643b404583edca47}
+
+Prompt Injection
+Direct Prompt Injection
+- HTB{c67652383c2a21b53caf425980b9a427}
+- HTB{2df33eee9fd0060d0169fb478e6c8770}
+- WATERFOUNTAIN
+- HTB{db4a18dcadf4bd380b93c3e3ede0da90} 
