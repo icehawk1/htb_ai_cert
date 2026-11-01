@@ -72,3 +72,19 @@ Mitigations
 - HTB{d33pf00l_f00lz}
 - HTB{f1r57_0rd3r_fun}
 - HTB{d33pf00l_k33p5_0n_f00l1ng}
+
+
+# LLM Output Attacks
+- HTB{31d7b16d366fb4eadd0141e9bd2a57b8}
+- HTB{70f953973c511deb54a7da4533efa64f}
+- HTB{52ed8c967f921d8e6bae607810c199df}
+- HTB{51bf708a6000824c7cc073d95a76853c}
+- HTB{77cde9e8fad8ff68396d1c0c8aa71d5f}
+- HTB{d8f581fb6f33e77f7bc5ec34dcb35d7d}
+- HTB{f1ee55e15251457d7ec66925a597de13}
+- HTB{bdc9a884bae041354d31fcc61b23dc0a}
+- HTB{f3e8b97bda68fb3e0fd27b952f2d070d}
+- HTB{e6fc908e4f0e60788ecc9c22f8415990}
+-  Exfiltration Attacks Fehlt noch
+-  Elenora
+-  
