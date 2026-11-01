@@ -56,6 +56,8 @@ Mitigations
 - HTB{4fb27c711b2d0d3612b5c11ab64a65ef}
 - HTB{200129eda28d80f6ba3825b6a3090380}
 
+- HTB{9956f5d9f0ba451ac9919f9a29c5aa2d}
+
 # AI Data Attacks
 - HTB{l4b3l_fl1pp1ng_pwnz_d3f4ult}
 - HTB{l4b3l_fl1pp1ng_targeted_pwnz}
@@ -64,4 +66,9 @@ Mitigations
 - HTB{D0ck3r1z3d_P1ckl3_Sh3ll_!n_Th3_M0d3l}
 - HTB{4mbiguity_m4st3r}
 
-- HTB{9956f5d9f0ba451ac9919f9a29c5aa2d}
+
+# AI Evasion - First-Order Attacks
+- HTB{f457_gr4d13n7_516n_m15l34d5_mn157}
+- HTB{d33pf00l_f00lz}
+- HTB{f1r57_0rd3r_fun}
+- HTB{d33pf00l_k33p5_0n_f00l1ng}
